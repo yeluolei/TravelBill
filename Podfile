@@ -1,0 +1,13 @@
+platform :ios,'7.0'
+
+pod 'AFNetworking', '~> 2.1.0'
+pod 'Reachability', '~> 3.1.1'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'SFHFKeychainUtils', '~> 0.0.1'
+pod 'MagicalRecord', '~> 2.2'
+pod 'iOS7Colors', '~> 2.1.0'
+pod 'Colours', '~> 4.1'
+pod 'UMengSocial', '~> 3.1'
+pod 'BlocksKit', '~> 2.0.0'
+pod 'hpple', '~> 0.2.0'
+pod 'SVPullToRefresh', '~> 0.4.1'
